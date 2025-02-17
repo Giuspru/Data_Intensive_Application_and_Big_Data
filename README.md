@@ -11,14 +11,13 @@ University Course
 - Scaling up vs scaling out
 - Big Data management, basic concepts
 
-## 2) First part: Models and programming technologies for distributed computations 
-- MapReduce model 
-- Hadoop
-- Think-Like-A-Vertex model
-- Giraph platform
-- Apache Spark
 
-## 2) dsfsdfs
+## 2) First part: Models and programming technologies for distributed computations
+- MapReduce model
+- Hadoop
+- Think like a vertex model
+- Graph platform
+- Apache Spark
 
 ## 3) Second Part: NoSQL technologies
 - NoSQL principles
