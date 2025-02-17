@@ -6,19 +6,20 @@ University Course
 
 # Main Arguments:
 
-# 1) Introduction
+## 1) Introduction
 - Big Data Introduction
 - Scaling up vs scaling out
 - Big Data management, basic concepts
 
-# 2) First part: Models and programming technologies for distributed computations 
+
+## 2) First part: Models and programming technologies for distributed computations 
 - MapReduce model 
 - Hadoop
 - Think-Like-A-Vertex model
 - Giraph platform
 - Apache Spark
 
-# 3) Parte II: NoSQL technologies
+## 3) Parte II: NoSQL technologies
 - NoSQL principles
 - CAP theorem
 - Key-value stores
