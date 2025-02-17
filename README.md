@@ -18,7 +18,7 @@ University Course
 - Giraph platform
 - Apache Spark
 
-## 3) Parte II: NoSQL technologies
+## 3) Second Part: NoSQL technologies
 - NoSQL principles
 - CAP theorem
 - Key-value stores
