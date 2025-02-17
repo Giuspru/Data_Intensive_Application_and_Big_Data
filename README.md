@@ -11,7 +11,6 @@ University Course
 - Scaling up vs scaling out
 - Big Data management, basic concepts
 
-
 ## 2) First part: Models and programming technologies for distributed computations 
 - MapReduce model 
 - Hadoop
