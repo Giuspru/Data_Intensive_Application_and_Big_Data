@@ -37,3 +37,4 @@ University Course
 - Concept of data gap: too much data that you can't handle.
 - Definition of Big Data Architectures
 - Shared memory Vs Shared-nothing architectures
+- Cloud Computing
