@@ -26,3 +26,14 @@ University Course
 - Column-family stores
 - Document databases
 - Graph databases
+
+
+## Lesson: 17/02/2025:
+- Information about the course
+- Intro and overview of the course 
+- Big Data definitions 
+- The 5 V's: Volume, Velocity, Variety. Variability, Veracity(Ma e' la veridicita'?)
+- Two more V's: Value, Visualization
+- Concept of data gap: too much data that you can't handle.
+- Definition of Big Data Architectures
+- Shared memory Vs Shared-nothing architectures
