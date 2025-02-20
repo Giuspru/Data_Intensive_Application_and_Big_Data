@@ -38,3 +38,17 @@ University Course
 - Definition of Big Data Architectures
 - Shared memory Vs Shared-nothing architectures
 - Cloud Computing
+
+
+## Lesson: 20/02/2025: firt 48 slides of l2
+- Mapreduce model
+- Key-value pairs
+- The model 
+- Implementation: Input, Map Function, Dhuffle Fase, Reduce Function
+- Scenarios
+- Round and multiple Rounds
+- Local And Agregate Space 
+- Complexity of MR algorithms
+- Text Processing (implementation with pseudo code)
+- Chernoff bound and theorem (just the enunciated) 
+
