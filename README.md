@@ -49,6 +49,6 @@ University Course
 - Round and multiple Rounds
 - Local And Agregate Space 
 - Complexity of MR algorithms
-- Text Processing (implementation with pseudo code)
+- Text Processing (implementation with pseudo code) --> Mapreduce folder with scripts
 - Chernoff bound and theorem (just the enunciated) 
 
