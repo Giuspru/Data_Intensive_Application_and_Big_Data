@@ -24,14 +24,14 @@ class WordCounterMapper:
 # print(mapped_data)
 
 
-def shuffle_and_sort(mapped_data): # i want obtain {word : [1, 1, 1, 1, 1]} for example
+def shuffle_and_sort(mapped_data): # i want to obtain {word : [1, 1, 1, 1, 1]} for example
     shuffled_data = {}
 
     for key, value in mapped_data:
         if key in shuffled_data:
             shuffled_data[key].append(value)
         else:
-            shuffled_data[key] = [value] #It has to be an array, because it has to be modifid with an append
+            shuffled_data[key] = [value] #It has to be an array, because it has to be modified with an append
 
     return shuffled_data
     

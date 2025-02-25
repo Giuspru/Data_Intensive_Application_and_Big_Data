@@ -52,3 +52,11 @@ University Course
 - Text Processing (implementation with pseudo code) --> Mapreduce folder with scripts
 - Chernoff bound and theorem (just the enunciated) 
 
+## Lesson: 25/02/2025:
+- Recap MapReduce
+- Modeling SQL query with Mapreduce 
+- Matrix Multiplication (implementation)
+- Graph Algorithms (try to implement) 
+
+
+
