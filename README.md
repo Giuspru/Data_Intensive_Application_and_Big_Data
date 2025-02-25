@@ -54,6 +54,7 @@ University Course
 
 ## Lesson: 25/02/2025:
 - Recap MapReduce
+- Co-occurrence Matrix 
 - Modeling SQL query with Mapreduce 
 - Matrix Multiplication (implementation)
 - Graph Algorithms (try to implement) 
