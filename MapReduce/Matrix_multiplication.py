@@ -60,14 +60,41 @@ matrix2 = [ ([0,0], [5,0]),
 
 mapper = step1map()
 mapped = mapper.mapper(matrix1)
-print(mapped)
+#print(mapped)
 
 
 class step1reduce:
     def reducer(self, mapped):
         a = []
         b = []
+        h = 0
+        z = 0
         
+        for _, array in mapped:
+            if array[0] == 0:
+                a.append((array[1], array[2]))
+                h += 1
+            else:
+                b.append((array[1], array[2]))
+                z += 1
+        ris = []
+        for pa in a:
+            i = pa[0]
+            aij = pa[1]
+            for pb in b:
+                k = pb[0]
+                bjk = pb[1]
+            
+                ris.append(([i,k], [aij*bjk]))
+        return ris
+
+
+
+reducer = step1reduce() 
+reduced = reducer.reducer(mapped)
+print(reduced)
+
+
 
 
 
