@@ -54,7 +54,7 @@ University Course
 
 ## Lesson: 25/02/2025:
 - Recap MapReduce
-- Co-occurrence Matrix 
+- Co-occurrence Matrix (implemented in pyhton)
 - Modeling SQL query with Mapreduce 
 - Matrix Multiplication (implementation)
 - Graph Algorithms (try to implement) 
