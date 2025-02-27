@@ -60,4 +60,28 @@ University Course
 - Graph Algorithms (try to implement) 
 
 
+## Lesson: 27/02/2025:
+- Hadoop
+- Distributed Filesystem
+- Key Ideas
+- High level architecture
+- Blocks
+- Namenodes
+- datanodes
+- Secondary namenode
+- Clients
+- data integrity 
+- HDFS federation
+- Erasure Coding
+- Yarn 
+- Containers
+- node managers
+- Resource Manager
+- Application Master
+- Job Scheduling
+
+
+
+
+
 
