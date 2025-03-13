@@ -80,6 +80,26 @@ University Course
 - Application Master
 - Job Scheduling
 
+## Lesson: 11/03/2025:
+- Hadoop
+
+## Lesson: 13/03/2025:
+- Apache Spark
+- Spark Architecture
+- RDD
+- operations
+- transformations
+- actions
+- shuffle
+- Narrow (mapp, filter, union) and Wide Transformations (groupBy, join, reduceByKey)
+- Persistency
+- Dag's
+- Example of Spark words count
+- Lineage
+- Dataframe
+
+
+
 
 
 
