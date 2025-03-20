@@ -98,6 +98,26 @@ University Course
 - Lineage
 - Dataframe
 
+## Lesson: 20/03/2025:
+- Dataflow and events streaming
+- Client Server pattern 
+- Restful services
+- Remote Procedure Call
+- Event Streaming
+- Asynchronous Messaging
+- Message Broker
+- Publish-subscribe pattern
+- Apache  Kafka
+- Goals
+- Architecture
+- Servers
+- Kafka Connect
+- Clients
+- Zookeeper
+- New: Distributed Database
+
+
+
 
 
 
