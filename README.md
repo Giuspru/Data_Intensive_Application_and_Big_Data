@@ -118,6 +118,30 @@ University Course
 - Modellind distributed Systems
 
 
+## Lesson: 25/03/2025:
+- Jupyter Notebook
+- Exe Wordcount with Spark
+- Exe Webserver with Spark
+- Exe Pm10 
+- Guarda Dask per progetto
+- Exe binary-classification
+- Distributed Databases
+- Availability and Fault Tollerance
+- Ordering Events
+- Unreliable Clocks
+- Happens Before relation
+- Cause effect relation
+- Logical Clocks (Vector Clocks)
+- Gossip Protocol
+- SI model
+- SIR model
+- Algorithm for SI model (try to implement)
+- Distributed Databases 
+- Sharding 
+- Random Sharding
+- Sharding by features
+- Sharding by key range
+- Sharding by hashed key
 
 
 
