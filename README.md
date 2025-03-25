@@ -142,6 +142,7 @@ University Course
 - Sharding by features
 - Sharding by key range
 - Sharding by hashed key
+- Rebalancing cluster
 
 
 
