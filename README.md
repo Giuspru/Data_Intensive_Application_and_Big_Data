@@ -146,14 +146,14 @@ University Course
 
 
 ## Lesson: 27/03/2025:
-- -[] Request Routing
-- [x] Replication
-- [] Master Slave Replication
-- [] Peer-to-peer Replication
-- [] Consistency issues 
-- [] Read Read conflict
-- [] Write Write Conflict
-- [] Read Write Conflict
+- [ ] Request Routing
+- [ ] Replication
+- [ ] Master Slave Replication
+- [ ] Peer-to-peer Replication
+- [ ] Consistency issues 
+- [ ] Read Read conflict
+- [ ] Write Write Conflict
+- [ ] Read Write Conflict
 
 
 
