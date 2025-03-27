@@ -145,6 +145,16 @@ University Course
 - Rebalancing cluster
 
 
+## Lesson: 27/03/2025:
+- [] Request Routing
+- [] Replication
+- [] Master Slave Replication
+- [] Peer-to-peer Replication
+- [] Consistency issues 
+- [] Read Read conflict
+- [] Write Write Conflict
+- [] Read Write Conflict
+
 
 
 
