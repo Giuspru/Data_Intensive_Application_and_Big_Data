@@ -146,8 +146,8 @@ University Course
 
 
 ## Lesson: 27/03/2025:
-- [] Request Routing
-- [] Replication
+- -[] Request Routing
+- [x] Replication
 - [] Master Slave Replication
 - [] Peer-to-peer Replication
 - [] Consistency issues 
