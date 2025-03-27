@@ -155,6 +155,7 @@ University Course
 - [ ] Write Write Conflict
 - [ ] Read Write Conflict
 - [ ] Quorum techniques
+- [ ] Vector Version
 
 
 
