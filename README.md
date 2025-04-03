@@ -157,6 +157,17 @@ University Course
 - [ ] Quorum techniques
 - [ ] Vector Version
 
+## Lesson: 03/04/2025:
+- [ ] Relational Databases recap
+- [ ] NoSQL Principles
+- [ ] NoSQL Databases
+- [ ] Key-Value Stores
+- [ ] Column-Family Stores
+- [ ] Document Databases
+- [ ] Graph Databases
+
+
+
 
 
 
