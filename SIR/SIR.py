@@ -1,23 +1,24 @@
 import numpy as np
 import matplotlib.pyplot as plt
-#Definition of the function model: it describes the model
 
+#Definition of a function that updates percentage of susceptible, infected and recovered population. 
 def sir_model( S , I , R, beta, gamma, dt):
 
     dS = -beta * S * I
     dI =  beta * S * I - gamma * I
     dR = gamma * I
 
-    S_next = S + dS * dt
-    I_next = I + dI * dt
-    R_next = R + dR * dt
+    S_next = S + (dS * dt)
+    I_next = I + (dI * dt)
+    R_next = R + (dR * dt)
 
     return S_next, I_next, R_next
 
 def simulate_sir(S0, I0, R0, beta, gamma, dt, T):
-    N = int(T/dt) # NUmber of time steps
-    S, I, R = np.zeros(N), np.zeros(N), np.zeros(N) #Inizializzo tre array di tanti elementi quanti sono i time steps
-    S[0], I[0], R[0] = S0, I0, R0 
+
+    N = int(T/dt) #Definition of time steps we want to simulate
+
+    S, I, R = np.zeros(N), np.zeros(N), np.zeros(N) #Inizialization of three arrays, each one will be filled with percentage of susceptible, infected and recovered population
 
     for t in range(1,N):
         S[t], I[t], R[t] = sir_model(S[t-1], I[t-1], R[t-1], beta, gamma, dt)
