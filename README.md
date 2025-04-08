@@ -166,6 +166,16 @@ University Course
 - [ ] Document Databases
 - [ ] Graph Databases
 
+## Lesson: 08/04/2025:
+- [ ] Features NoSQL Databases
+- [ ] Aggregates
+- [ ] Examples
+- [ ] Key-Value and Document data models
+- [ ] Column-family data model
+- [ ] Relationships
+- [ ] Inter-aggregate relationships
+- [ ] Materialized views
+- [ ] Graph data model
 
 
 
