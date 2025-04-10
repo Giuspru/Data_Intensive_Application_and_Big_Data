@@ -1,0 +1,9 @@
+{
+    "_id": ObjectId,
+    "bookId": ObjectId("00001"),
+    "reviewer": "Alice",
+    "rating": "4",
+    "comment": "Great book!",
+    "date": "2023-09-15"
+
+}

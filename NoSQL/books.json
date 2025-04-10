@@ -1,0 +1,7 @@
+{
+    "_id" : "ObjectId",
+    "title" : "1984",
+    "author" : "George Orwell",
+    "year" : 1949,
+    "genre" : "Dystopian"
+}
