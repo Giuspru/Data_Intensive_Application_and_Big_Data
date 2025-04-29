@@ -177,6 +177,30 @@ University Course
 - [ ] Materialized views
 - [ ] Graph data model
 
+## Lesson: 10/04/2025:
+- [ ] Regitration
+
+## Lesson: 15/04/2025:
+- [ ] Registration
+
+## Lesson: 17/04/2025:
+- [ ] Registration
+
+## Lesson: 24/04/2025:
+- [ ] Lab
+
+## Lesson: 29/04/2025:
+- [ ] Vector Database
+- [ ] Working with text
+- [ ] one-hot encoding
+- [ ] basg of words
+- [ ] word embeddings
+- [ ] word2vec
+- [ ] Cbow model
+- [ ] Vector Databases
+- [ ] Metric spaces
+
+
 
 
 
